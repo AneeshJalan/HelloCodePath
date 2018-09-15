@@ -6,8 +6,7 @@ This basic android application allows users to manipulate on-screen text by chan
 The user can also change the color of the background.
 
 ### App Walk-though
-
-<img src="https://drive.google.com/open?id=1-hiCYMKVEkATjovPv_gvdhM5LonFI50h" width=200><br>
+<img src="https://lh3.googleusercontent.com/eUL4SDKdwLxZTKeols9lUdGkDjtIchjb--ENegwvoqUN0CdQrWv_VUS8lwO5fNTlM0s7lNtKaWnBoyL3k_kj3S-0yL65gcUIa5J71E1FF1zdImTSvztSrQC1U5xorJ4N8645z2LzJlWUvZI0y6JeZsGVvWa6E17c5AgRdXC-Klo1FHRp2J1SF1fR4wG1pFVNPza77K9M5W05ZVCJylssmXgPTH1GqkHfNSr1o4Xw8Ph1AHKBdhaBY9ykn1vyXE0lto2hOEOlSI-KGDRJXRUYqjZTM8wYwNt_RVS_o1wotBF8gvvtz3Y19O4-cE1YsYWJJKW0BlteG6akifZA_mXzGUc4sOM2QdSWNWXWS75qZNwRn8cIpfxL-uNG1JFb3__I7vPEWK0jJPB4ZrtGvZ5UpdpCQSXlMtMRx1D3DubqzF7aQyokrbVF2xZqGeTEk3Ys_iHShvC-IA_7AqhvlliaAt-Xj7aGl76-GbZYlrwqC8or7doRdysrOxERIber0NGZ_mWJqJQ04-HreQmLHgSXIokU1EFWgbPPk0GSs6wYRerxCI6MTOV5ZvOFxuYSFUvWNvQ9WG7IMQW4oZfadt9pz5ca4FTTGOPKJZGgGINGlcSD2M0oL5rpWRjXkIPoRaF6=w341-h607-no" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
